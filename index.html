@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+  <head>
+
+    <!-- Google -->
+    <meta name="google-site-verification" content="-1iT16jsLqcIMIT1vqcPPbz_ejc2IepyUemjGn3k3Q0" />
+
+    <!-- Bing -->
+    <meta name="msvalidate.01" content="3E0BD6B86FD45796895EA19719969931" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133820820-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-133820820-1');
+    </script>
+
+
+
+    <!-- Meta tags Obrigatórias -->
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <meta name="description" content="Agência de Marketing Digital em Brasília DF: A Vitrola é uma agência de marketing digital que busca criar uma ponte entre seus clientes e sua presença relevante no mundo online e offline."/>
+
+    <meta property="og:title" content="Agência de Marketing Digital em Brasília DF: A Vitrola é uma agência de marketing digital que busca criar uma ponte entre seus clientes e sua presença relevante no mundo online e offline."/>
+
+    <meta property="og:description" content="Agência de Marketing Digital em Brasília DF: A Vitrola é uma agência de marketing digital que busca criar uma ponte entre seus clientes e sua presença relevante no mundo online e offline."/>
+
+    <meta property="og:locale" content="pt_BR"/>
+
+    <meta property="og:type" content="website"/>
+
+    <meta name="google-site-verification" content="O2aEJes7Y_marlZC-vh1CXsGhHm6xjw_02XeIJnk1Sw" />
+
+    <link rel="canonical" href="http://www.agenciavitrola.com.br/" />
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+
+    <!-- HTML5Shiv -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <![endif]-->
+
+    <!-- Estilo customizado -->
+    <link rel="stylesheet" type="text/css" href="css/estilo.css">
+
+    <!-- Arquivo js -->
+    <script src="js/js.js"></script>
+
+    <title> Agência de Marketing Digital em Brasília DF | Vitrola</title>
+
+    <!-- Links para texto digitado -->
+    <script src="typed/lib/typed.js"></script>
+    <script src="typed/assets/demos.js"></script>
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <!-- Fim Links para texto digitado -->
+
+    <link rel="icon" href="img/favicon.ico">
+  </head>
+
+  <body>
+    
+    <!-- inicio Cabecalho -->
+    <?php include_once "cabecalho.php" ?>
+    <!--/fim Cabecalho -->
+
+    <!-- Início home -->
+    <section id="capa">
+      <div class="slogan_texto">
+        <img src="img/background.jpg" alt="Vitrola Markting Digital" class="img-fluid">
+          <div class="slogan_texto_left img-fluid">
+            <div class="row">
+              <div class="col-md-12">
+                <div class="type-wrap slogan">
+
+                  <div id="typed-strings">
+                    <h6><span>Leve sua empresa para a era da criatividade digital</span></h6>
+                  </div>
+
+                  <span id="typed"></span>
+                </div>
+              </div>
+            </div>
+          </div>
+      </div>
+    </section>
+    <!-- Fim home -->
+
+    <!-- Início a_vitrola -->
+    <section id="a_vitrola" class="caixa">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-md-12">
+
+            <h1><a name="a_vitrola"><br>Marketing digital com criatividade </a></h1>
+
+            <h6><p>A Vitrola é uma agência de marketing digital situada em Brasília DF, que busca criar uma ponte entre seus clientes e sua presença relevante no mundo online e offline. A revolução digital mudou o jeito de vermos o mundo e de vendermos nossos produtos e serviços. Pensando nisso, temos a missão de levar nossos parceiros para a nova era da criatividade digital, com o objetivo de alcançar resultados maravilhosos juntos.
+            Do pequeno ao grande empresário, todos tem espaço para novas oportunidades de negócios e crescimento.
+            </p></h6>
+
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Fim a_vitrola -->
+
+    <!-- Início Jobs -->
+    <section id="jobs">
+      <div class="container">
+
+            <div class="row">
+              <div class="col-md-6 align-self-center">
+
+                <a class='watch img-fluid' href='#'>
+                  <img src="img/branding-marketing-digital-site-cliente-pilates-fernanda-calderaro.jpg" class="img-fluid" alt=''>
+                </a>
+
+                <a class='watch img-fluid' href='#'>
+                  <img src="img/branding-marketing-digital-cliente-viraventos-escola-infantil.jpg" class="img-fluid" alt=''>
+                </a>
+
+                <a class='watch img-fluid' href='#'>
+                  <img src="img/branding-site-marketing-digital-conteudo-digital-cliente-expominas-sergio-reis.jpg" class="img-fluid" alt=''>
+                </a>
+
+              </div>
+
+              <div class="col-md-6 align-self-center">
+            
+                <a class='watch img-fluid' href='#'>  
+                  <img src="img/branding-marketing-digital-cliente-aline-melo-franco-advogados-associados.jpg" class="img-fluid" alt=''>
+                </a>
+                
+                <a class='watch img-fluid' href='#'> 
+                  <img src="img/branding-marketing-digital-cliente-ajr-producao-de-videos.jpg" class="img-fluid" alt=''>
+                </a>
+
+                <a class='watch img-fluid' href='#'>
+                  <img src="img/branding-site-marketing-digital-conteudo-digital-cliente-bem-te-vi-artesanato.jpg" class="img-fluid" alt=''>
+                </a>
+
+              </div>
+            </div>
+
+      </div>
+    </section>
+    <!-- Fim Jobs -->
+
+    <!-- Início Nosso Trabalho -->
+    <section id="nosso_trabalho" class="caixa">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-md-3">
+
+            <img src="img/sites_e_apps.png" alt="Sites e Apps" class="img-fluid">
+            <h3>Sites e Apps</h3>
+            <hr>
+            <p>Desenvolvemos o site e/ou o app para sua empresa com as melhores e mais recentes tecnologias e práticas do mercado. É essencial para sua empresa, aumenta a visibilidade na internet e conquista, por consequência, um número maior de clientes e vendas. Eles funcionam como uma vitrine para o seu negócio, reunindo todas as informações importantes e funcionalidades para o seu público-alvo.
+            </p>
+
+          </div>
+
+          <div class="col-md-3">
+
+            <img src="img/marketing_digital.png" alt="MArketing Digital" class="img-fuid">
+            <h3>Marketing Digital</h3>
+            <hr>
+            <p>O marketing digital é crucial, ele precisa ser útil para os usuários. Suas páginas nas redes sociais precisam passar conteúdo relevante para que seus produtos e/ou serviços atinjam seu público alvo. Monitoramos especificamente as atividades que surgem, para entender como sua marca é entendida e assim melhorar suas ações.</p>
+
+          </div>
+
+          <div class="col-md-3">
+
+            <img src="img/conteudo_digital.png" alt="Conteúdo Digital" class="img-fluid">
+            <h3>Conteúdo Digital</h3>
+            <hr>
+            <p>Comunique mensagens que estejam relacionadas ao seu negócio, chamem a atenção e fidelize seu público alvo. Traçamos estratégias de conteúdo digital para suas redes sociais, site e blog, tudo desenvolvido depois de pesquisa de mercado, entendimento de quais são os anseios do seu público e um excelente trabalho de SEO, links patrocinados(Instagram e Facebook) e google ads.</p>
+
+          </div>
+
+          <div class="col-md-3">
+
+            <img src="img/branding.png" alt="Branding" class="img-fluid">
+            <h3>Branding</h3>
+            <hr>
+            <p>Você provavelmente quer sua marca posicionada no mercado e quer, com ela, transmitir suas idéias e conceitos com sua imagem. Nós desenvolvemos da sua marca à sua identidade visual e trabalhamos para escolher os canais certos e melhores conteúdos para a divulgação para seu público alvo.</p>
+
+          </div>
+
+        </div>
+      </div>
+    </section>
+    <!-- Fim Nosso Trabalho-->
+
+    <!-- Início Tarja Clientes -->
+    <section id="tarja_clientes" class="caixa">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-md-12">
+
+            <h2>Alguns clientes</h2>
+
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Fim Tarja Clientes -->
+
+    <!-- Início Clientes -->
+    <section id="clientes" class="caixa">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-md-2">
+
+            <img src="img/parceiro-logo-pilates-fernanda-calderaro.png" alt="Pilates Fernanda Calderaro" class="img-fluid">
+
+          </div>
+
+          <div class="col-md-2">
+
+            <img src="img/parceiro-logo-aline-melo-franco-advogados-associados.png" alt="Aline Melo Franco Advogados Associados" class="img-fluid">
+
+          </div>
+
+          <div class="col-md-2">
+
+            <img src="img/parceiro-logo-viraventos-escola-infantil.png" alt="Viraventos Escola Infantil" class="img-fluid">
+
+          </div>
+
+          <div class="col-md-2">
+
+            <img src="img/parceiro-logo-ajr-producao-de-videos.png" alt="AJR Produção de Vídeos" class="img-fluid">
+
+          </div>
+
+          <div class="col-md-2">
+
+            <img src="img/parceiro-logo-expominas.png" alt="Expominas" class="img-fluid">
+
+          </div>
+
+          <div class="col-md-2">
+
+            <img src="img/parceiro-logo-bem-te-vi-artesanato.png" alt="Bem-Te-Vi Artesanato" class="img-fluid">
+
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <!-- Fim Tarja Clientes -->
+
+    <!-- Início rodapé -->
+    <footer>
+
+      <div class="container">
+
+        <div class="row">
+
+          <div class="col-md-3">
+            <img src="img/logo_vitrola_rodape.png" alt="Vitrola Marketing Digital" class="img-fluid d-none d-lg-block">
+          </div>
+
+          <div class="col-md-6 align-self-center">
+            <h4>Copyright © 2022 - Vitrola Marketing Digital | contato@agenciavitrola.com.br | De segunda a sexta das 09Hrs às 18Hrs</h4>
+          </div>
+
+          <div class="col-md-3 d-flex justify-content-end">
+            <ul>
+              <li><a href="https://twitter.com/VitrolaMkt/" target="_blank" class="btn btn-outline-light mr-1"><i class="fab fa-twitter"></i></a></li>
+              <li><a href="https://www.facebook.com/Vitrola.Marketing.Digital" target="_blank" class="btn btn-outline-light mr-1"><i class="fab fa-facebook"></i></a></li>
+              <li><a href="https://www.instagram.com/vitrola.marketing.digital/" target="_blank" class="btn btn-outline-light mr-1"><i class="fab fa-instagram"></i></a></li>
+            </ul>
+          </div>
+
+        </div>
+
+      </div>
+
+    </footer>
+    <!-- Fim rodapé -->
+
+
+    <!-- Início Fale Conosco -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+
+      <div class="modal-dialog" role="document">
+
+        <div class="modal-content">
+
+          <div class="modal-header align-self-center">
+            <h5 class="modal-title" id="exampleModalLabel">FALE CONOSCO</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+
+          <div class="modal-body">
+
+            <form method="post" action="contato_enviar.php" name="contato" enctype="multipart/form-data" onSubmit="return verificarCampos()">
+
+              <div class="form-group">
+                <input type="text" placeholder="Nome" class="form-control" name="nome" id="nome">
+              </div>
+
+              <div class="form-group">
+                <input type="text" placeholder="E-mail principal" class="form-control" name="email" id="email">
+              </div>
+
+              <div class="form-group">
+                <input type="text" placeholder="Telefone para contato" class="form-control" name="celular" id="celular" onkeypress="mascara(this); return bloqueiaLetras(event)">
+              </div>
+
+              <div class="form-group">
+                <input type="text" placeholder="Assunto" class="form-control" name="assunto" id="assunto">
+              </div>
+
+              <div class="form-group">
+                <textarea class="form-control" placeholder="Como podemos ajudar" name="mensagem" id="mensagem"></textarea>
+              </div>
+
+          
+              </div>
+
+              <div class="modal-footer">
+                <button type="submit" class="btn btn-primary">PRONTO, ENVIAR E-MAIL</button>
+              </div>
+
+            </form>
+
+        </div>
+      </div>
+    </div>
+    <!-- Fim Fale Conosco -->
+
+    <!-- JavaScript (Opcional) -->
+    <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+    <script>
+        $(document).ready(function() {
+            $(window).on('scroll', function() {
+                if ($(window).scrollTop() >= 20) {
+                    $('nav.navbar-transparente').addClass('compressed');
+                    $('.navbar-logo').addClass('compressed');
+                } else {
+                    $('nav.navbar-transparente').removeClass('compressed');
+                    $('.navbar-logo').removeClass('compressed');
+                }
+            });
+        });
+    </script>
+
+    <script>
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-11539016-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+
+  </body>
+</html>
