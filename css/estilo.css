@@ -1,0 +1,437 @@
+/* Layout */
+html, body {
+	overflow-y: visible;
+	overflow-x: visible;
+}
+
+@font-face {
+     font-family: 'Bauhaus 93';
+     src: url(../fontes/bauhaus-93.woff);
+}
+
+@font-face {
+     font-family: Aileron;
+     src: url(../fontes/Aileron-Regular.woff);
+}
+/* Fim Layout */
+
+/* Logo */
+.navbar-logo {
+	padding: 30px 21px;
+	z-index: 10000;
+	-webkit-transition: all 0.8s;
+	-moz-transition: all 0.8s;
+	transition: all 0.8s;
+}
+
+.navbar-logo.compressed  {
+	padding: 06px 21px;
+	z-index: 10000;
+	opacity: .9;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	transition: all 0.5s;
+}
+
+.navbar-brand {
+	width: 240px;
+	margin-left: 10px;
+
+}
+/* Fim Logo */
+
+/* Barra de navegação */
+nav.navbar-transparente {
+	padding: 22px 0px;
+	background: rgba(62,176,167,0.7);
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	border-bottom: 2px solid #F1C047;
+	-webkit-transition: all 0.8s;
+	-moz-transition: all 0.8s;
+	transition: all 0.8s;
+}
+
+nav.navbar-transparente.compressed  {
+	padding: 10px 0px;
+	background: rgba(62,176,167,1);
+	border-bottom: 2px solid #F1C047;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	transition: all 0.5s;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #F1C047;
+	font-size: 20px;
+	font-family: 'Bauhaus 93';
+	letter-spacing: 1.3px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color: #ffffff;
+}
+
+.navbar-light .navbar-toggler {
+	margin: 07.5px auto;
+	color: rgba(84,81,129,.5);
+	border-color: rgba(84,81,129,.5);
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	transition: all 0.5s;
+	z-index: 100000;
+}
+
+.navbar-collapse {
+	text-align: right;
+}
+/* Fim Barra de navegação */
+
+/* Capa */
+#capa {
+	width: 100%;
+}
+
+.slogan_texto {
+  position: relative;
+}
+
+.slogan_texto_left {
+  position: absolute;
+  top: 220px;
+  left: 50px;
+}
+
+.slogan {
+	font-family: Aileron;
+	font-size: 4vw;
+	color: #ffffff;
+	text-align: left;
+	width: 447px;
+	height: 200px;
+	font-weight: 350;
+	padding: 2px;
+}
+/* Fim Capa */
+
+/* Estrutura de conteúdos */
+
+.caixa {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#a_vitrola {
+	background: #42B4AA;
+	border-top: 1px solid #F1C047;
+	text-align: center;
+	font-family: Aileron;
+}
+
+#a_vitrola h1 {
+	font-family: 'Bauhaus 93';
+	letter-spacing: 1.5px;
+	font-size: 3.5em;
+	color: white;
+	margin-bottom: 10px;
+}
+
+#a_vitrola p {
+	font-size: 18px;
+	color: #ffffff;
+	font-weight: 110;
+}
+
+#jobs {
+	color: white;
+	background-color: #ffffff;
+}
+
+/* Estrutura para imagems jobs */
+.watch {
+    display: inline-block;
+    position: relative;
+    margin-top: 5px;
+}
+
+.watch:hover::after {
+    visibility: visible;
+    
+}
+
+.watch img {
+    width: 100%;
+}
+
+.watch::after {
+    background: url(../img/cliente_teste_hover.png) no-repeat,
+    rgba(255, 255, 255, .3);
+    background-position: 45% 55%;
+    content: '';
+    display: block;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    visibility: hidden;
+    width: 100%;
+}
+/* Fim Estrutura para imagems nosso trabalho hover */
+
+#nosso_trabalho {
+	background-image: radial-gradient(#3FB3AA,#42B4AA);
+	background=#3FB3AAff&noise=626262&density=10&opacity=15;
+	text-align: center;
+	font-family: Aileron;
+	margin-top: 5px;
+	padding: 70px 0px;
+}
+
+#nosso_trabalho h3 {
+	font-family: Aileron;
+	color: #ffffff;
+	font-size: 25px;
+	font-weight: lighter;
+	letter-spacing: 0.2px;
+}
+
+#nosso_trabalho p {
+	font-family: Aileron;
+	color: #ffffff;
+	font-size: 13.5px;
+	font-weight: lighter;
+	text-align: left;
+	letter-spacing: 0.5px;
+}
+
+#nosso_trabalho img {
+	margin-bottom: 10px;
+	opacity: .4;
+	-webkit-transition: all 0.4s;
+	-moz-transition: all 0.4s;
+	transition: all 0.4s;
+}
+
+#nosso_trabalho img:hover {
+	opacity: .8;
+	-webkit-transition: all 0.6s;
+	-moz-transition: all 0.6s;
+	transition: all 0.6s;
+}
+
+#tarja_clientes {
+	background-image: radial-gradient(#FEC941,#F1C047);
+	background=#3FB3AAff&noise=626262&density=10&opacity=15;
+	text-align: center;
+}
+
+#tarja_clientes h2 {
+	font-family: 'Bauhaus 93';
+	letter-spacing: 2.5px;
+	color: #ffffff;
+}
+
+#clientes {
+	text-align: center;
+}
+/* Fim Estrutura de conteúdos */
+
+/* Rodapé */
+footer {
+	background-image: radial-gradient(#42CFC9,#42B4AA);
+	padding: 30px 0px 20px 0px;
+	position: relative;
+	border-top: 1px solid white;
+}
+
+footer h4 {
+	color: #ffffff;
+	font-size: 0.8em;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+footer ul {
+	list-style: none;
+}
+
+footer ul li {
+	float: right;
+	margin: 0px 05px; 
+}
+/* Fim Rodapé */
+
+/* Tipografia */
+h1 {
+	font-weight: 900;
+	letter-spacing: -0.05em;
+	margin-bottom: 50px;
+	color: white;
+}
+
+h2 {
+	font-size: 3em; 
+	font-weight: 700;
+	letter-spacing: -0.04em;
+}
+
+h3 {
+	font-size: 2em; 
+	font-weight: 700;
+	letter-spacing: -0.04em;
+}
+
+h4 {
+	line-height: 1.8;
+}
+/* Fim Tipografia */
+
+
+/* Media Queries */
+/*Extra extra small devices (phones, less than 320px)*/
+@media (max-width: 320px) {
+	
+		}
+/*Fim Extra extra small devices (phones, less than 320px)*/
+
+/*Extra extra small devices (phones, less than 320px)*/
+@media (min-width: 320px) and (max-width: 991.98px) {
+	.navbar-light .navbar-toggler {
+		margin-right: 10px;
+	}
+
+	.navbar-collapse {
+		margin-right: 10px; 
+	}
+
+	.slogan {
+		width: 200px;
+	}
+
+	footer h4 {
+		font-size: 0.7em;
+		margin-top: 02px;
+	}
+		}
+/*Fim Extra extra small devices (phones, less than 320px)*/
+
+/*De 375px até 375px*/
+@media (min-width: 360px) and (max-width: 375px) {
+	
+}
+/*Fim De 375px até 375px*/
+
+
+/*De 411px até 480px*/
+@media (min-width: 411px) and (max-width: 480px) {
+	
+}
+/*Fim De 411px até 480px*/
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	
+}
+/*Fim Extra small devices (portrait phones, less than 576px)*/
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+	
+}
+/*Fim Small devices (landscape phones, 576px and up)*/
+
+
+/*Small devices (landscape phones, 576px e maiores)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	
+}
+/*Fim Small devices (landscape phones, 576px e maiores)*/
+
+
+/*Small devices (Landscape Phones)*/
+@media (max-width: 767.98px) {
+	
+}
+/*Fim Small devices (Landscape Phones)*/
+
+
+/*De 768px até 768px */
+@media (min-width: 768px) and (max-width: 768px) {
+	
+}
+/*Fim De 768px até 768px */
+
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+	
+}
+/*Fim Medium devices (tablets, 768px and up)*/
+
+
+/*Medium devices (tablets, 768px e maiores)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	
+}
+/*Fim Medium devices (tablets, 768px e maiores)*/
+
+
+/*Medium devices (Tablets)*/
+@media (max-width: 991.98px) {
+
+}
+/*Fim Medium devices (Tablets)*/
+
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+	
+}
+/*Fim Large devices (desktops, 992px and up)*/
+
+
+/*Large devices (desktops, 992px e maiores)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+		
+}
+/*Fim Large devices (desktops, 992px e maiores)*/
+
+
+/*Large devices (Desktops)*/
+@media (max-width: 1199.98px) {
+	.slogan_texto_left {
+  		position: absolute;
+  		top: 160px;
+  		left: 50px;
+  		text-align: left;
+	}
+}
+/*Fim Large devices (Desktops)*/
+
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+	
+}
+/*Fim Extra large devices (large desktops, 1200px and up)*/
+
+
+/*Extra large devices (large desktops, 1200px  e maiores)*/
+@media (min-width: 1024px) and (max-width: 1024px) {
+	.slogan_texto_left {
+  		position: absolute;
+  		top: 220px;
+  		left: 50px;
+  		text-align: left;
+	}
+
+	.slogan {
+		font-size: 4vw;
+		width: 447px;
+	}
+}
+/*Fim Extra large devices (large desktops, 1200px  e maiores)*/
+/* Fim Media Queries */

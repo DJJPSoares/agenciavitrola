@@ -1,0 +1,6 @@
+
+# Rule 1
+User-agent: *
+Allow: /
+
+Sitemap: http://www.agenciavitrola.com.br/sitemap.xml
