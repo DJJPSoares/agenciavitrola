@@ -73,8 +73,17 @@
   <body>
     
     <!-- inicio Cabecalho -->
-    <?php include_once "cabecalho.html" ?>
+    <!-- <?php include_once "cabecalho.html" ?> -->
     <!--/fim Cabecalho -->
+
+    <div id="header"></div>
+    <script>
+      fetch('cabecalho.html')
+        .then(response => response.text())
+        .then(data => {
+          document.getElementById('header').innerHTML = data;
+      });
+    </script>
 
     <!-- Início home -->
     <section id="capa">
